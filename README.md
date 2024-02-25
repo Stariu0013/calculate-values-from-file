@@ -1,0 +1,1 @@
+To run code clone repository and type `npm run start`
